@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dianamoreno
-- 👀 I’m interested in software development and in keeping myself in constant learning with new technologies
+- 👀 I’m interested in software development and keeping myself in constant learning with new technologies
 - 🌱 Here you will find some of my personal projects.
 - 📫 How to reach me diana.moreno6@gmail.com
 
