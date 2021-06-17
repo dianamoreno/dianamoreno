@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dianamoreno
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning kotlin, Android, Reactjs, React native, nodejs, typescript, Firebase
+- 👀 I’m interested in software development and in keeping myself in constant learning with new technologies
+- 🌱 Here you will find some of my personal projects.
 - 📫 How to reach me diana.moreno6@gmail.com
 
 <!---
